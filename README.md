@@ -21,14 +21,14 @@ The project utilizes the Google Trends dataset, accessible through the BigQuery 
 
 **R Analysis**
 
-This folder contains the R scripts used for data processing and exploration. The scripts typically follow these steps:
+This folder contains the R scripts used for data processing and exploration. The scripts followed these steps:
 
 1. **Load Libraries:** Load necessary R libraries for data manipulation and analysis.
-2. **Import Data:** Establish a connection to BigQuery (if required) and import the relevant data using SQL queries.
+2. **Import Data:** Establish a connection to the data in the CSV format.
 3. **Data Cleaning and Preprocessing:** Clean and prepare the data for analysis, addressing missing values, inconsistencies, or transformations required for meaningful insights.
 4. **Exploratory Data Analysis (EDA):** Perform EDA techniques to understand the data characteristics, identify trends, patterns, or relationships. This may involve visualizations, descriptive statistics, and statistical tests.
 5. **Data Transformation:** Create new variables or modify existing ones to facilitate visualization in Tableau.
-6. **Export Data:** Save the prepared datasets in a suitable format for Tableau (e.g., CSV, Excel) for further analysis and visualization.
+6. **Export Data:** Save the prepared datasets in a suitable format for Tableau (in this case JSON) for further analysis and visualization.
 
 **Full Project Link**
 
