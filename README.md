@@ -7,7 +7,7 @@
 
 **Introduction**
 
-This repository documents the R analysis portion of a capstone project for the Google Analytics Professional Certificate. This project investigates the most popular Google search trends in Spain throughout 2024 using the Google Trends public dataset available on Google Cloud Marketplace.
+This repository documents the R analysis portion of the capstone project for the Google Analytics Professional Certificate. This project investigates the most popular Google search trends in Spain throughout 2024 using the Google Trends dataset available on BigQuery public dataset program.
 
 **Technologies Used**
 
