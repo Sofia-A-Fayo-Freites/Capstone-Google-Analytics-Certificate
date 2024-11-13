@@ -1,5 +1,5 @@
 # Google Analytics Professional Certificate
-## Analysis of consumer trends through 2024 using the Google Trends Dataset
+## ***Analysis of consumer trends through 2024 using the Google Trends Dataset***
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" width="70" height="50" alt="R Logo"> 
 
