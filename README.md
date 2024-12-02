@@ -32,7 +32,7 @@ This folder contains the R scripts used for data processing and exploration. The
 
 **Full Project Link**
 
-For a complete view of the project, including visualizations created in Tableau, please visit the full project website: [INSERT LINK TO WEBSITE]
+For a complete view of the project, including visualizations created in Tableau, please visit the [full project website](https://sites.google.com/view/sofiaafayo/projects/google-analytics-capstone?authuser=0)
 
 **Disclaimer**
 
